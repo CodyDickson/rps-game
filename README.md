@@ -1,2 +1,4 @@
 # rps-game
-A console Rock, Paper, Scissors Game
+A console Rock, Paper, Scissors game
+
+Built using Java
